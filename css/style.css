@@ -11,10 +11,22 @@
   #map {
     height: 400px;
   }
+
+  .timeline > li {
+    margin-bottom: 50px
+  }
 }
 
 @media (min-width: 768px) {
   section {
     padding: 100px 0;
   }
+}
+
+.timeline-body {
+  text-align: justify;
+}
+
+.center {
+  text-align: center;
 }
